@@ -1,6 +1,6 @@
   var sha256 = require('js-sha256');  
 
-  let origin = 'https:test-openapi-hk.qfapi.com/checkstand/#/?'
+  let origin = 'https//:openapi-int.qfapi.com/checkstand/#/?'
   let obj = {
       appcode: "CC6FB660837E49F7A675D2**********",
       goods_name: "remotfpay_checkout_names",
